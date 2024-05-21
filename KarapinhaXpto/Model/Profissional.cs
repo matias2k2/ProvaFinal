@@ -13,13 +13,14 @@ namespace Model
     {
 
         [Key]
-        public int proficionaisId { get; set; }
+        public int ProficionaisId { get; set; }
         [Required]
         [StringLength(80)]
         public String nomeProficional { get; set; }
         [Required]
         [StringLength(80)]
         public String especialidade { get; set; }
+
         public virtual ICollection<Marcacao> Marcacoes { get; set; }
     }
 }

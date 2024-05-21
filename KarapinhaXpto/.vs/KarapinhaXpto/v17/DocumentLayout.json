@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|c:\\users\\tinar\\onedrive\\documentos\\github\\provafinal\\karapinhaxpto\\model\\marcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|solutionrelative:model\\marcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{162544EB-D521-428C-886A-779A0DDA63F0}|DAL\\DAL.csproj|c:\\users\\tinar\\onedrive\\documentos\\github\\provafinal\\karapinhaxpto\\dal\\migrations\\202405212039575_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162544EB-D521-428C-886A-779A0DDA63F0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405212039575_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\model\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|solutionrelative:model\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\model\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|solutionrelative:model\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{162544EB-D521-428C-886A-779A0DDA63F0}|DAL\\DAL.csproj|c:\\users\\tinar\\onedrive\\documentos\\github\\provafinal\\karapinhaxpto\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162544EB-D521-428C-886A-779A0DDA63F0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{162544EB-D521-428C-886A-779A0DDA63F0}|DAL\\DAL.csproj|C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{162544EB-D521-428C-886A-779A0DDA63F0}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|c:\\users\\tinar\\onedrive\\documentos\\github\\provafinal\\karapinhaxpto\\model\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|solutionrelative:model\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|solutionrelative:model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|solutionrelative:model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E92904-0A4F-4A71-8A8A-1C7882647D89}|KarapinhaXpto\\KarapinhaXpto.csproj|C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\karapinhaxpto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12E92904-0A4F-4A71-8A8A-1C7882647D89}|KarapinhaXpto\\KarapinhaXpto.csproj|solutionrelative:karapinhaxpto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\model\\marcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|solutionrelative:model\\marcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\model\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFFC180-5A21-4B93-8E76-F690478C6EAC}|Model\\Model.csproj|solutionrelative:model\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +46,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABtAAAA",
+              "DocumentIndex": 0,
+              "Title": "202405212039575_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\DAL\\Migrations\\202405212039575_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405212039575_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\DAL\\Migrations\\202405212039575_InitialCreate.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405212039575_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T16:31:24.162Z"
+              "WhenOpened": "2024-05-21T20:40:05.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Profissional.cs",
-              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Profissional.cs",
-              "RelativeDocumentMoniker": "Model\\Profissional.cs",
-              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Profissional.cs",
-              "RelativeToolTip": "Model\\Profissional.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAASAAAA",
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T16:18:39.141Z"
+              "WhenOpened": "2024-05-21T20:39:36.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Servico.cs",
-              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Servico.cs",
-              "RelativeDocumentMoniker": "Model\\Servico.cs",
-              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Servico.cs",
-              "RelativeToolTip": "Model\\Servico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T16:21:08.208Z"
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\KarapinhaXpto\\Web.config",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Web.config",
+              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\KarapinhaXpto\\Web.config",
+              "RelativeToolTip": "KarapinhaXpto\\Web.config",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-21T19:23:19.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,22 +95,73 @@
               "RelativeDocumentMoniker": "Model\\Categoria.cs",
               "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Categoria.cs",
               "RelativeToolTip": "Model\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T15:55:00.007Z"
+              "WhenOpened": "2024-05-21T19:03:13.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Usuario.cs",
+              "RelativeToolTip": "Model\\Usuario.cs",
+              "ViewState": "AQIAABYAAAAAMzMzMzMDwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:01:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:31:24.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Servico.cs",
+              "RelativeDocumentMoniker": "Model\\Servico.cs",
+              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Servico.cs",
+              "RelativeToolTip": "Model\\Servico.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:21:08.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profissional.cs",
+              "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Profissional.cs",
+              "RelativeDocumentMoniker": "Model\\Profissional.cs",
+              "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Profissional.cs",
+              "RelativeToolTip": "Model\\Profissional.cs",
+              "ViewState": "AQIAAAQAAAAAMzMzMzMLwBcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:18:39.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Marcacao.cs",
               "DocumentMoniker": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Marcacao.cs",
               "RelativeDocumentMoniker": "Model\\Marcacao.cs",
               "ToolTip": "C:\\Users\\tinar\\OneDrive\\Documentos\\GitHub\\ProvaFinal\\KarapinhaXpto\\Model\\Marcacao.cs",
               "RelativeToolTip": "Model\\Marcacao.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAKAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wBoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T15:52:34.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T15:52:34.839Z"
             }
           ]
         }

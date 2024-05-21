@@ -19,5 +19,8 @@ namespace Model
         [Required]
         [StringLength(80)]
         public String descricao { get; set; }
+        public virtual ICollection<Marcacao> Marcacoes { get; set; }
+
+        public virtual Servico Servico { get; set; }
     }
 }

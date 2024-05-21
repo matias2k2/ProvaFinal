@@ -35,5 +35,7 @@ namespace Model
         {
 
         }
+
+        public virtual ICollection<Marcacao> Marcacoes { get; set; }
     }
 }

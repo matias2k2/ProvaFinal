@@ -20,7 +20,13 @@ namespace Model
         [StringLength(80)]
         public String decricao { get; set; }
         public float valor { get; set; }
-        public Servico() { }
+
+        public int CategoriaId { get; set; }
+
+        [ForeignKey("CategoriaId")]
+        public virtual Categoria Categoria { get; set; }
+
+        public virtual ICollection<Marcacao> Marcacoes { get; set; }
 
     }
 }

@@ -75,9 +75,9 @@
   <ItemGroup>
     <Compile Include="AppDbContext.cs" />
     <Compile Include="App_Start\SwaggerConfig.cs" />
-    <Compile Include="Migrations\202405211539465_fistMigration.cs" />
-    <Compile Include="Migrations\202405211539465_fistMigration.Designer.cs">
-      <DependentUpon>202405211539465_fistMigration.cs</DependentUpon>
+    <Compile Include="Migrations\202405212039575_InitialCreate.cs" />
+    <Compile Include="Migrations\202405212039575_InitialCreate.Designer.cs">
+      <DependentUpon>202405212039575_InitialCreate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -93,8 +93,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202405211539465_fistMigration.resx">
-      <DependentUpon>202405211539465_fistMigration.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202405212039575_InitialCreate.resx">
+      <DependentUpon>202405212039575_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
