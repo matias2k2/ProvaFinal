@@ -75,6 +75,11 @@
   <ItemGroup>
     <Compile Include="AppDbContext.cs" />
     <Compile Include="App_Start\SwaggerConfig.cs" />
+    <Compile Include="Migrations\202405211539465_fistMigration.cs" />
+    <Compile Include="Migrations\202405211539465_fistMigration.Designer.cs">
+      <DependentUpon>202405211539465_fistMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -86,6 +91,11 @@
       <Project>{9FFFC180-5A21-4B93-8E76-F690478C6EAC}</Project>
       <Name>Model</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202405211539465_fistMigration.resx">
+      <DependentUpon>202405211539465_fistMigration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -20,9 +20,12 @@ namespace DAL
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Marcacao>().HasOptional(s => s.profissional).WithRequired(ps => ps.marcacao);
             base.OnModelCreating(modelBuilder);
+           
         }
 
         public DbSet<Servico> Servicos { get; set; }
+        private DbSet<Marcacao> Marcacao { get; set; }
     }
 }

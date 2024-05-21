@@ -74,8 +74,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\SwaggerConfig.cs" />
+    <Compile Include="Categoria.cs" />
+    <Compile Include="Marcacao.cs" />
+    <Compile Include="Profissional.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Servico.cs" />
+    <Compile Include="Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
